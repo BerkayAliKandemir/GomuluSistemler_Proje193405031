@@ -1,0 +1,2 @@
+# GomuluSistemler_Proje193405031
+GomuluSistemlerProjeOdevi
