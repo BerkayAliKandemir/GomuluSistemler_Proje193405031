@@ -4,4 +4,7 @@ GomuluSistemlerProjeOdevi
 
 Berkay Ali KANDEMİR 
 
-video, Sunum ve Rapor içerikte mevcuttur. 
+
+Video, Sunum ve Rapor içerikte mevcuttur. 
+
+
