@@ -1,10 +1,4 @@
-# GomuluSistemler_Proje193405031
+# GomuluSistemler_Proje
 
-GomuluSistemlerProjeOdevi
-
-Berkay Ali KANDEMİR 
-
-
-Video, Sunum ve Rapor içerikte mevcuttur. 
 
 
